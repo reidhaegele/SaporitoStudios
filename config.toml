@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Saporito Studios'
+theme = 'ace-documentation'
+
+disableReadmoreNav = 'true'
+disableSearch = 'true'
+toc = 'true'
+
+[markup.goldmark.renderer]
+unsafe= true
+
